@@ -1,1 +1,1 @@
-# ML-projects
+# Fake News Detector
